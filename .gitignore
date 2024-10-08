@@ -1,0 +1,14 @@
+/.cache/
+/.pytest_cache/
+
+/build/
+/dist/
+/*.egg-info/
+
+*.py[cdo]
+
+.DS_Store
+.idea/
+labelme/ai/weights/efficient_sam_vits.pt
+labelme/ai/weights/efficient_sam_vitt.pt
+labelme/ai/weights/sds/efficient_sam_vits.pt
