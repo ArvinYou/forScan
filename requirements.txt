@@ -3,7 +3,7 @@ imgviz>=1.7.5
 matplotlib
 natsort>=7.1.0
 numpy<2.0.0
-Pillow>=2.8
+Pillow>=11.0.0
 PyYAML
 qtpy!=1.11.2
 scikit-image
